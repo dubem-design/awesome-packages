@@ -1,0 +1,11 @@
+{
+  "name": "awesome-packages",
+  "version": "0.0.1",
+  "description": "Discover useful packages around the dev space especially for automation, backend and frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
